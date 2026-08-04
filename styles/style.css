@@ -302,4 +302,8 @@ ol {
   display: block;
  }
 
- .content__card-link_current {}
+ .content__card-link_current {
+  background-color: #545050;
+ }
+
+ .content__card-link:hover
